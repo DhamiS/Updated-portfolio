@@ -49,6 +49,8 @@ strong {
   width: 200px;
   border-radius: 50%;
   margin: 0 auto;
+  background-repeat: no-repeat;
+  background-position: 50% 50%:
 }
 
 #main .social {
